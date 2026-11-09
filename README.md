@@ -3,7 +3,7 @@
 <br>
 Olá, Os alunos de jogos digitais, Brenda Santos Pinheiro e Thiago Lopes da UNEB, se propuseram a fazer um minigame inspirado de corrida para a aula de prototipagem-para-jogos sob a orientação de Murillo Boratto.
 <br>
-Link para explicação detalhada em vídeo: https://youtu.be/XpLI1nCx71E
+Link para Gameplay: https://youtu.be/XpLI1nCx71E
 <br>
 Resumo: Felpudo deve resgatar Fofuxa para ganhar o jogo!
 <ol>
